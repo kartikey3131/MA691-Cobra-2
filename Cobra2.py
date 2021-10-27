@@ -9,7 +9,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 loans = pd.read_csv("new_loans.csv")
 
-#l =[]
+# l =[]
 # for i in range(len(loans)):
 #     if(loans.loc[i,'not.fully.paid']==0):
 #         l.append(i)
